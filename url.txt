@@ -1,1 +1,1 @@
-https://bike-sharing-dashboard-devipratiwi.streamlit.app/
+https://bikesharing-dashboard-devipratiwi.streamlit.app/
